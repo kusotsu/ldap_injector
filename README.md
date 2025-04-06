@@ -9,8 +9,9 @@ LdapInjector
     cd ldap_injector
     
 
-3.Запуск
-go run main.go
+3.Запуск:
+
+    go run main.go
 
 
 Как это работает
