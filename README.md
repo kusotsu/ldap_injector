@@ -3,9 +3,11 @@ LdapInjector
 1.Установите Go
 Убедитесь, что у вас стоит Go 1.16+ (проверить версию можно командой go version).
 
-2.Склонируйте репозиторий
-git clone https://github.com/ваш-ник/ldap_injector.git
-cd ldap_injector
+2.Склонируйте репозиторий:
+    
+    git clone https://github.com/kusotsu/ldap_injector.git
+    cd ldap_injector
+    
 
 3.Запуск
 go run main.go
